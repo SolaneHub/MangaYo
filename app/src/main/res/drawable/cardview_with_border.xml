@@ -1,0 +1,12 @@
+<!-- cardview_border.xml -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Bordo della CardView (Grigio) -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="@color/stroke"/>
+            <corners android:radius="30dp" />
+        </shape>
+    </item>
+
+    <item android:drawable="@color/transparent" />
+</layer-list>

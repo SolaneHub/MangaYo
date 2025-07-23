@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MangaYo</string>
+    <string name="latest_release">ULTIME USCITE</string>
+    <string name="latest_japan">NOVITÁ DAL GIAPPONE</string>
+    <string name="latest_figures">NOVITÁ FIGURES</string>
+    <string name="most_popular">PIÚ POPOLARI</string>
+    <string name="search">Cerca</string>
+</resources>
